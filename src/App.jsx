@@ -1,4 +1,5 @@
 import React from 'react';
+import { Analytics } from '@vercel/analytics/react';
 import { SpeedInsights } from '@vercel/speed-insights/react';
 import Navbar from './components/Navbar';
 import Hero from './components/Hero';
@@ -33,6 +34,7 @@ function App() {
       <footer className="py-8 bg-gray-950 text-center text-gray-500 text-sm">
         <p>&copy; {new Date().getFullYear()} Ranjeet Tiwary. All rights reserved.</p>
       </footer>
+      <Analytics />
       <SpeedInsights />
     </div>
   );
