@@ -64,6 +64,15 @@ const certificates = [
     link: 'https://verify.skilljar.com/c/z5c88ygoof7g',
     type: 'pdf',
     issuerUrl: 'https://anthropic.skilljar.com/claude-code-in-action'
+  },
+  {
+    title: 'Introduction to Model Context Protocol',
+    issuer: 'Anthropic Education',
+    image: '/assets/mcp-intro-cert.pdf',
+    description: 'Completed Introduction to Model Context Protocol with verified certification from Anthropic Education (Skilljar).',
+    link: 'https://verify.skilljar.com/c/ekp2kga6asrz',
+    type: 'pdf',
+    issuerUrl: 'https://anthropic.skilljar.com/introduction-to-model-context-protocol'
   }
 ];
 
