@@ -55,6 +55,15 @@ const certificates = [
     link: 'https://verify.skilljar.com/c/g3c8h63u8ch8',
     type: 'pdf',
     issuerUrl: 'https://anthropic.skilljar.com/claude-101'
+  },
+  {
+    title: 'Claude Code in Action',
+    issuer: 'Anthropic Education',
+    image: '/assets/claude-code-in-action-cert.pdf',
+    description: 'Completed Claude Code in Action with verified certification from Anthropic Education (Skilljar).',
+    link: 'https://verify.skilljar.com/c/z5c88ygoof7g',
+    type: 'pdf',
+    issuerUrl: 'https://anthropic.skilljar.com/claude-code-in-action'
   }
 ];
 
