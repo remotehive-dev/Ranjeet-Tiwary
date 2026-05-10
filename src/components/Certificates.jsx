@@ -51,6 +51,13 @@ const certificates = [
 
 const badges = [
   {
+    title: 'Cybersecurity Basics Protecting Your Data in the Digital Age',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=5cdbad0331420fd6f766a8817d5f23e5fff18aff',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-cybersecurity-basics.png'
+  },
+  {
     title: 'Conflict Resolution in Teamwork: Strategies for Effective Communication',
     issuer: 'University of the People',
     link: 'https://my.uopeople.edu/badges/badge.php?hash=9796dd3bfa6815f3d5d0a9ae5b97e860eb521394',
