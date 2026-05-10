@@ -46,6 +46,15 @@ const certificates = [
     description: 'Recognized as Star Performer and Highest Revenue Generator in the entire organization.',
     link: '/assets/whitehat-cert.pdf',
     type: 'pdf'
+  },
+  {
+    title: 'Claude 101',
+    issuer: 'Anthropic Education',
+    image: '/assets/claude-101-cert.pdf',
+    description: 'Completed Claude 101 with verified certification from Anthropic Education (Skilljar).',
+    link: 'https://verify.skilljar.com/c/g3c8h63u8ch8',
+    type: 'pdf',
+    issuerUrl: 'https://anthropic.skilljar.com/claude-101'
   }
 ];
 
