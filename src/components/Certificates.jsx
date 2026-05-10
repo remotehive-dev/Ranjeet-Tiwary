@@ -51,6 +51,13 @@ const certificates = [
 
 const badges = [
   {
+    title: 'Conflict Resolution in Teamwork: Strategies for Effective Communication',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=9796dd3bfa6815f3d5d0a9ae5b97e860eb521394',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-conflict-resolution.png'
+  },
+  {
     title: 'Inclusive Communication for Careers in Healthcare',
     issuer: 'University of the People',
     link: 'https://my.uopeople.edu/badges/badge.php?hash=bd4517babb7eb75b1bef6e443ccae435a9e33f74',
