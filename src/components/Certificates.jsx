@@ -51,6 +51,13 @@ const certificates = [
 
 const badges = [
   {
+    title: 'AI and the Future of Work: Preparing for the AI-Driven Job Market in Computer Science',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=09b53d69bcae1ddc8e467941ca56c0b31b639e78',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-ai-future-of-work-cs.png'
+  },
+  {
     title: 'Promoting Equity and Social Justice in Online Work Environments',
     issuer: 'University of the People',
     link: 'https://my.uopeople.edu/badges/badge.php?hash=3c2362b7c3c1e36035e30cffd15076890a8239b3',
