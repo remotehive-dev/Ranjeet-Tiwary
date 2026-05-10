@@ -51,6 +51,13 @@ const certificates = [
 
 const badges = [
   {
+    title: 'Promoting Equity and Social Justice in Online Work Environments',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=3c2362b7c3c1e36035e30cffd15076890a8239b3',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-equity-social-justice-online.png'
+  },
+  {
     title: 'Leveraging AI for Career Growth and Skill Enhancement in Business and Healthcare Fields',
     issuer: 'University of the People',
     link: 'https://my.uopeople.edu/badges/badge.php?hash=c9e20545e8837c357477a482155ccbc2178b5dff',
