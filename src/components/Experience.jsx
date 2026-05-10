@@ -3,36 +3,37 @@ import { motion } from 'framer-motion';
 import { CheckCircle, Award, TrendingUp, Users } from 'lucide-react';
 
 const biography = [
-  "My professional journey is rooted in a strong academic foundation in Computer Science from Rajiv Gandhi Govt. P.G. College, Ambikapur. Starting my career as a Service Coordinator at Livpure, I quickly transitioned into high-impact sales roles.",
-  "At WhiteHat Jr, I was recognized as a Star Performer, achieving record-breaking organic revenue growth. My journey continued through dynamic roles at Apna.co and Swiggy Dineout, where I honed my skills in B2B sales and account management.",
-  "Currently, as a Team Leader at PlanetSpark, I drive end-to-end P&L ownership and lead high-performing inside sales teams, consistently achieving 15x monthly revenue multiples.",
-  "I combine my sales expertise with a deep understanding of technology, leveraging AI and data analytics to drive business growth and operational efficiency."
+  "I bring a strong technical foundation (B.Sc. Computer Science) and a commercial mindset built through 6+ years in high-velocity sales environments. My career started in customer-facing operations at Livpure, where I learned SLA management, escalation handling, and process discipline—skills that later translated into tighter pipeline execution and stronger customer experience.",
+  "I moved into inside sales leadership roles where consultative selling and structured follow-ups matter most: lead qualification, discovery, objection handling, negotiation, closing, and post-sale expansion. At WhiteHat Jr, I was recognized as a Star Performer for high revenue contribution and consistent performance against aggressive targets.",
+  "I strengthened my B2B selling and account management capabilities across roles at Apna.co and Swiggy Dineout—working with decision-makers, improving onboarding and adoption, and executing retention and growth initiatives through data-backed partner reviews.",
+  "At PlanetSpark, I take end-to-end ownership of performance: P&L, team hiring and coaching, forecasting cadence, and CRM hygiene. I’ve led an 8-member team and delivered ₹26,15,976.09 in New Net Revenue in 33 weeks while maintaining an execution rhythm that supports repeatable growth.",
+  "Across roles, I use analytics and automation to scale impact—KPI dashboards, funnel reviews, and AI-enabled workflows that reduce manual effort and improve speed-to-lead, conversion, and predictability."
 ];
 
 const achievements = [
   {
     title: 'Star Performer Award',
-    description: 'Recognized at WhiteHat Jr for highest revenue contribution and record-breaking organic growth.',
+    description: 'Recognized at WhiteHat Jr for high revenue contribution and consistent quota delivery, driven by disciplined pipeline management and consultative selling.',
     icon: Award
   },
   {
     title: '15x Revenue Multiple',
-    description: 'Consistently achieving 15x monthly revenue multiple at PlanetSpark through strategic P&L management.',
+    description: 'Owned P&L and execution cadence at PlanetSpark, driving a 15× monthly revenue multiple through forecasting, funnel optimization, and team coaching.',
     icon: TrendingUp
   },
   {
     title: '₹2.6M+ Net Revenue Delivered',
-    description: 'Generated ₹26,15,976.09 in New Net Revenue within 33 weeks at PlanetSpark, leading a team of 8.',
+    description: 'Generated ₹26,15,976.09 in New Net Revenue within 33 weeks at PlanetSpark while leading an 8-member inside sales team and maintaining CRM hygiene for accurate reporting.',
     icon: Award
   },
   {
     title: 'High Conversion Rates',
-    description: 'Delivered strong trial-to-enrollment conversion rates in the UK market at Bhanzu.',
+    description: 'Delivered strong trial-to-enrollment conversion in the UK market at Bhanzu by improving discovery quality, follow-up cadence, and stakeholder alignment.',
     icon: CheckCircle
   },
   {
     title: 'Retention & Growth',
-    description: 'Consistently exceeded revenue and retention targets at Swiggy Dineout.',
+    description: 'Exceeded revenue and retention targets at Swiggy Dineout through partner reviews, adoption playbooks, and growth initiatives informed by performance data.',
     icon: Users
   }
 ];

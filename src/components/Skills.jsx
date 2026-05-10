@@ -6,32 +6,32 @@ const skills = [
   {
     title: 'Business Development',
     icon: Briefcase,
-    description: 'Driving growth through strategic partnerships and market expansion.',
+    description: 'New business growth through consultative selling, opportunity qualification, stakeholder management, negotiation, and repeatable playbooks.',
   },
   {
     title: 'Sales Strategy',
     icon: TrendingUp,
-    description: 'Crafting effective sales plans to maximize revenue and market share.',
+    description: 'Pipeline strategy, territory planning, funnel conversion optimization, deal reviews, and execution cadence aligned to revenue targets.',
   },
   {
     title: 'Client Relations',
     icon: Users,
-    description: 'Building and maintaining strong, long-lasting customer relationships.',
+    description: 'Account management, retention, expansion, and customer success alignment with proactive communication and data-driven partner reviews.',
   },
   {
     title: 'CRM & Tech Tools',
     icon: Cpu,
-    description: 'Leveraging modern CRM systems and AI tools for efficiency.',
+    description: 'CRM hygiene, forecasting, reporting, and sales enablement workflows using dashboards, automation, and AI-assisted productivity tools.',
   },
   {
     title: 'Market Analysis',
     icon: Target,
-    description: 'In-depth analysis of market trends and competitor activities.',
+    description: 'Market research, competitor benchmarking, ICP refinement, and insights that improve positioning, messaging, and lead quality.',
   },
   {
     title: 'Strategic Planning',
     icon: ShieldCheck,
-    description: 'Long-term planning to ensure sustainable business success.',
+    description: 'GTM planning, cross-functional collaboration, KPI governance, and continuous improvement to build sustainable, scalable revenue systems.',
   },
 ];
 

@@ -11,7 +11,7 @@ const educationData = [
     duration: '2025 - 2026',
     status: 'Pursuing',
     details: 'UoPeople ID: C110418561',
-    description: 'Focusing on Data Structures, Algorithms, Statistical Analysis, and Machine Learning foundations.',
+    description: 'Coursework focus: statistics, data analysis, SQL-ready thinking, machine learning foundations, and applied problem-solving for business decision-making.',
     icon: BookOpen,
     color: 'from-purple-500 to-indigo-600'
   },
@@ -22,7 +22,7 @@ const educationData = [
     duration: '2016 - 2019',
     status: 'Completed',
     details: '',
-    description: 'Strong foundation in Computer Science principles, programming languages, and software engineering.',
+    description: 'Foundation in computer science, programming, and software engineering concepts—supporting product thinking, technical discovery, and cross-functional collaboration.',
     icon: GraduationCap,
     color: 'from-emerald-500 to-teal-600'
   }

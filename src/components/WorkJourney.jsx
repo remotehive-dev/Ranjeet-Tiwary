@@ -11,13 +11,14 @@ const workHistory = [
     logo: null,
     color: 'from-purple-600 to-pink-600',
     details: {
-      overview: 'Owning end-to-end P&L and leading inside sales teams to drive revenue growth.',
+      overview: 'Own end-to-end P&L and revenue execution for a business vertical—leading inside sales performance through forecasting cadence, conversion optimization, and coaching systems that improve predictability.',
       responsibilities: [
         'Own end-to-end P&L for the assigned business vertical, consistently achieving a 15× monthly revenue multiple.',
         'Lead hiring, onboarding, training, and performance management of inside sales teams.',
-        'Drive CRM hygiene, forecasting accuracy, and analytics-led pipeline optimization.',
-        'Collaborate cross-functionally with marketing, product, and training teams to improve lead quality.',
-        'Standardized lead-to-lead (L2L) processes, increasing efficiency and referral-driven growth.'
+        'Drive CRM hygiene, forecasting accuracy, and analytics-led pipeline optimization across the funnel.',
+        'Run structured daily/weekly reviews (pipeline, conversion, QA) and remove bottlenecks in the lead-to-close journey.',
+        'Collaborate cross-functionally with marketing, product, and training teams to improve lead quality and customer experience.',
+        'Standardize lead-to-lead (L2L) processes and referral motions to improve efficiency and sustainable growth.'
       ],
       achievements: [
         'Delivered Net Revenue of ₹26,15,976.09 (New Net) in just 33 weeks as Assistant Manager - TL.',
@@ -36,12 +37,12 @@ const workHistory = [
     logo: null,
     color: 'from-blue-500 to-cyan-500',
     details: {
-      overview: 'Managed UK market inside sales operations and optimized lead conversion.',
+      overview: 'Led international (UK) inside sales execution with consultative discovery, trial-to-enrollment conversion, and disciplined pipeline follow-ups supported by CRM reporting and forecasting.',
       responsibilities: [
         'Managed UK market inside sales operations, handling high-intent inbound and outbound leads.',
-        'Oversaw CRM data integrity, reporting, and forecasting.',
-        'Delivered consultative sales engagements with strong trial-to-enrollment conversion.',
-        'Partnered with cross-functional teams to optimize lead nurturing and reduce drop-offs.'
+        'Owned CRM data integrity, reporting cadence, and conversion analysis for continuous improvement.',
+        'Delivered consultative sales engagements with strong trial-to-enrollment conversion and objection handling.',
+        'Partnered with cross-functional teams to optimize lead nurturing, reduce drop-offs, and improve speed-to-lead.'
       ],
       achievements: []
     }
@@ -54,7 +55,7 @@ const workHistory = [
     logo: null,
     color: 'from-orange-500 to-yellow-500',
     details: {
-      overview: 'Managed and scaled a portfolio of restaurant partners through consultative selling.',
+      overview: 'Managed and scaled a portfolio of restaurant partners through consultative account management—driving revenue, retention, and adoption through regular performance reviews and tailored growth initiatives.',
       responsibilities: [
         'Managed and scaled a portfolio of restaurant partners through consultative selling.',
         'Acted as a strategic advisor by analyzing sales trends and implementing growth initiatives.',
@@ -71,7 +72,7 @@ const workHistory = [
     logo: null,
     color: 'from-green-500 to-emerald-500',
     details: {
-      overview: 'Converted B2B leads into revenue-generating accounts.',
+      overview: 'Converted B2B leads into revenue-generating accounts through structured prospecting, qualification, and stakeholder management—while improving onboarding efficiency and CRM hygiene.',
       responsibilities: [
         'Converted cold and warm B2B leads into revenue-generating accounts.',
         'Exceeded KPIs through disciplined pipeline management and consultative selling.',
@@ -88,7 +89,7 @@ const workHistory = [
     logo: '/assets/whitehat-certificate.webp',
     color: 'from-red-500 to-pink-500',
     details: {
-      overview: 'Led high-performing sales teams and achieved record-breaking revenue growth.',
+      overview: 'Led high-performing inside sales teams with clear KPIs and coaching routines—driving quota attainment through discovery quality, objection handling, and disciplined follow-up execution.',
       responsibilities: [
         'Led and mentored high-performing sales teams with structured KPIs.',
         'Achieved record-breaking organic revenue growth.'
@@ -106,7 +107,7 @@ const workHistory = [
     logo: null,
     color: 'from-blue-600 to-indigo-600',
     details: {
-      overview: 'Managed service engineers and ensured complaint resolution within SLA.',
+      overview: 'Managed service operations and customer escalations by coordinating field engineers, maintaining SLA/TAT compliance, and improving operational workflows for better customer satisfaction.',
       responsibilities: [
         'Managed service engineers and ensured complaint resolution within SLA/TAT.',
         'Optimized service workflows, improving operational efficiency and customer satisfaction.'

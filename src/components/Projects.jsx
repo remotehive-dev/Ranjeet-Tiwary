@@ -6,13 +6,13 @@ const projects = [
   {
     title: 'Remotehive',
     category: 'Enterprise Grade System',
-    description: 'A scalable, enterprise-level platform designed for remote work management. Features robust architecture, secure authentication, and real-time collaboration tools.',
+    description: 'A scalable platform concept for remote work operations with secure authentication, role-based access, and real-time collaboration—built to demonstrate enterprise architecture and product thinking.',
     tech: ['React', 'Node.js', 'MongoDB', 'AWS S3', 'Socket.io'],
     features: [
-      'Enterprise-grade architecture',
-      'Real-time collaboration workflows',
-      'Scalable database design',
-      'Secure role-based access control'
+      'Role-based access control (RBAC) and secure authentication flows',
+      'Real-time collaboration patterns using event-driven updates',
+      'Scalable data model for teams, projects, and activity history',
+      'Cloud-ready asset storage and performance-focused UI'
     ],
     icon: Globe,
     link: '#', 
@@ -20,13 +20,13 @@ const projects = [
   {
     title: 'Dynamic Admin Panels',
     category: 'Full Stack Dashboard',
-    description: 'Fully functional admin panels with dynamic content management, user administration, and analytics visualization.',
+    description: 'Production-style admin dashboards with modular UI, user management, and analytics views—built to highlight sales ops mindset (metrics, governance, and operational control).',
     tech: ['React', 'Supabase/Appwrite', 'Tailwind CSS', 'Recharts'],
     features: [
-      'Dynamic content management',
-      'User authentication (Clerk)',
-      'Database integration (Supabase/Mongo)',
-      'Responsive UI with Framer Motion'
+      'Modular content and user management with role-based permissions',
+      'Authentication and secure access patterns for internal tooling',
+      'Operational analytics views and reporting-ready data layouts',
+      'Responsive UI with motion-driven interactions'
     ],
     icon: Server,
     link: '#',
@@ -34,13 +34,13 @@ const projects = [
   {
     title: 'AI Chat Integration',
     category: 'AI & Automation',
-    description: 'Custom AI chat models integrated into web apps with guardrails, error boundaries, and context-aware responses.',
+    description: 'LLM-enabled chat experiences integrated into web apps with safety guardrails, context controls, and resilient UX—focused on reliable, production-grade AI interaction.',
     tech: ['OpenAI/Claude API', 'n8n', 'Vector DB', 'React'],
     features: [
-      'Custom AI model integration',
-      'Guardrails & Error Boundaries',
-      'Context-aware prompting',
-      'Automated workflows via n8n'
+      'Context-aware prompting patterns and response quality controls',
+      'Guardrails, error boundaries, and fallback handling for stability',
+      'RAG-ready workflow concepts with embeddings/vector search',
+      'Automation pipelines for repetitive workflows using n8n'
     ],
     icon: Code,
     link: '#',

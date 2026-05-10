@@ -22,9 +22,9 @@ const metrics = [
   },
   {
     id: 3,
-    value: '10+',
-    label: 'Global Markets',
-    subtext: 'UK, India & More',
+    value: '2',
+    label: 'Primary Markets',
+    subtext: 'UK & India',
     icon: Globe,
     color: 'text-blue-400'
   },

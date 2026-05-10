@@ -41,6 +41,9 @@ const Contact = () => {
             className="space-y-8"
           >
             <h3 className="text-2xl font-semibold mb-6">Let's Connect</h3>
+            <p className="text-gray-400 leading-relaxed">
+              I’m open to Business Development, Inside Sales leadership, and revenue-focused roles where I can combine pipeline discipline, team coaching, and data-driven execution to scale predictable growth.
+            </p>
             <div className="flex items-center gap-4">
               <div className="bg-indigo-900/50 p-3 rounded-full text-indigo-400">
                 <Mail size={24} />
@@ -70,7 +73,9 @@ const Contact = () => {
                 <FileText size={20} className="text-indigo-400" />
                 Download Resume
               </h4>
-              <p className="text-gray-400 text-sm mb-4">Please enter your email to download my resume.</p>
+              <p className="text-gray-400 text-sm mb-4">
+                Enter your email and I’ll share my latest resume with detailed achievements, responsibilities, and tools.
+              </p>
               <div className="flex gap-2">
                 <input
                   type="email"

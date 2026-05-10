@@ -16,16 +16,16 @@ const About = () => {
             <h2 className="text-4xl font-bold mb-6 text-indigo-400">About Me</h2>
             <div className="space-y-6">
               <p className="text-lg leading-relaxed text-gray-300">
-                <span className="text-indigo-300 font-semibold">The Bridge Between Business & Technology.</span>
+                <span className="text-indigo-300 font-semibold">A techno-commercial leader building predictable revenue engines.</span>
               </p>
               <p className="text-lg leading-relaxed text-gray-300">
-                I am a results-driven Business Development and Sales Leader with a <span className="text-white font-medium">B.Sc. in Computer Science</span> and over 6 years of experience scaling revenue for top-tier EdTech and SaaS companies. My journey began in the technical realm, managing operations for a tech franchise, before pivoting to sales where I consistently outperformed targets, earning accolades like <span className="text-yellow-400 font-medium">"Star Performer"</span> at WhiteHat Jr and driving a <span className="text-emerald-400 font-medium">15x revenue multiple</span> at PlanetSpark.
+                I am a Business Development and Inside Sales leader with a <span className="text-white font-medium">B.Sc. in Computer Science</span> and 6+ years of experience driving revenue growth across high-velocity EdTech and consumer-tech environments. I’ve owned P&L, built and coached inside sales teams, improved funnel conversion, and delivered measurable outcomes including <span className="text-emerald-400 font-medium">₹26,15,976.09 in New Net Revenue in 33 weeks</span> while leading an 8-member team at PlanetSpark.
               </p>
               <p className="text-lg leading-relaxed text-gray-300">
-                Unlike traditional sales professionals, I speak the language of code. I possess a deep, hands-on understanding of <span className="text-indigo-300 font-medium">Full Stack Development (MERN)</span>, API architecture, and database design. I build enterprise-grade systems like "Remotehive," integrate complex AI models with guardrails, and deploy scalable solutions on cloud infrastructure.
+                My edge is execution across both business and technology. I combine consultative selling (discovery, objection handling, negotiation, closing, expansion) with practical engineering literacy across <span className="text-indigo-300 font-medium">React, Node.js, APIs, databases, analytics, and automation</span>. This helps me align product value with customer pain points, translate technical capabilities into business outcomes, and accelerate decision-making with data.
               </p>
               <p className="text-lg leading-relaxed text-gray-300">
-                This unique duality allows me to not only sell complex technological solutions but to understand their architecture, optimize their delivery, and bridge the gap between technical capabilities and business objectives. I don't just close deals; I architect sustainable growth strategies backed by data and technical precision.
+                I focus on building repeatable playbooks: qualification standards, pipeline hygiene, forecasting cadence, and performance coaching that improves both conversion and retention. The result is a revenue system that scales with the team—clear process, clear metrics, and customer-first execution.
               </p>
             </div>
             
@@ -36,28 +36,28 @@ const About = () => {
                   <span className="w-2 h-2 mt-2 bg-indigo-500 rounded-full mr-3 group-hover:bg-emerald-400 transition-colors"></span>
                   <div>
                     <strong className="text-white block mb-1">Strategic Revenue Growth</strong>
-                    <span>Proven track record of scaling P&L and driving double-digit growth in international markets (UK/India).</span>
+                    <span>P&L ownership, quota achievement, and market expansion with a structured revenue cadence (pipeline, conversion, retention).</span>
                   </div>
                 </li>
                 <li className="flex items-start group">
                   <span className="w-2 h-2 mt-2 bg-indigo-500 rounded-full mr-3 group-hover:bg-purple-400 transition-colors"></span>
                   <div>
-                    <strong className="text-white block mb-1">Full Stack Engineering</strong>
-                    <span>Building robust applications with React, Node.js, MongoDB, and modern DevOps practices.</span>
+                    <strong className="text-white block mb-1">Sales Ops + Tech Fluency</strong>
+                    <span>CRM hygiene, dashboards, forecasting, and process automation with strong product/engineering collaboration.</span>
                   </div>
                 </li>
                 <li className="flex items-start group">
                   <span className="w-2 h-2 mt-2 bg-indigo-500 rounded-full mr-3 group-hover:bg-blue-400 transition-colors"></span>
                   <div>
-                    <strong className="text-white block mb-1">AI & Automation Mastery</strong>
-                    <span>Leveraging n8n, custom AI agents, and LLMs to automate workflows and enhance productivity.</span>
+                    <strong className="text-white block mb-1">High-Performance Team Leadership</strong>
+                    <span>Hiring, onboarding, coaching, QA, and performance management for inside sales teams in high-velocity funnels.</span>
                   </div>
                 </li>
                 <li className="flex items-start group">
                   <span className="w-2 h-2 mt-2 bg-indigo-500 rounded-full mr-3 group-hover:bg-yellow-400 transition-colors"></span>
                   <div>
                     <strong className="text-white block mb-1">Data-Driven Leadership</strong>
-                    <span>Using advanced analytics (Power BI, CRM data) to forecast trends and optimize sales funnels.</span>
+                    <span>Analytics-led decisions using KPI dashboards, cohort insights, and funnel reviews to improve conversion and predictability.</span>
                   </div>
                 </li>
               </ul>
