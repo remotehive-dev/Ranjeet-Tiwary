@@ -46,10 +46,79 @@ const certificates = [
     description: 'Recognized as Star Performer and Highest Revenue Generator in the entire organization.',
     link: '/assets/whitehat-cert.pdf',
     type: 'pdf'
+  },
+  {
+    title: 'Claude 101',
+    issuer: 'Anthropic Education',
+    image: '/assets/claude-101-cert.pdf',
+    description: 'Completed Claude 101 with verified certification from Anthropic Education (Skilljar).',
+    link: 'https://verify.skilljar.com/c/g3c8h63u8ch8',
+    type: 'pdf',
+    issuerUrl: 'https://anthropic.skilljar.com/claude-101'
+  },
+  {
+    title: 'Claude Code in Action',
+    issuer: 'Anthropic Education',
+    image: '/assets/claude-code-in-action-cert.pdf',
+    description: 'Completed Claude Code in Action with verified certification from Anthropic Education (Skilljar).',
+    link: 'https://verify.skilljar.com/c/z5c88ygoof7g',
+    type: 'pdf',
+    issuerUrl: 'https://anthropic.skilljar.com/claude-code-in-action'
+  },
+  {
+    title: 'Introduction to Model Context Protocol',
+    issuer: 'Anthropic Education',
+    image: '/assets/mcp-intro-cert.pdf',
+    description: 'Completed Introduction to Model Context Protocol with verified certification from Anthropic Education (Skilljar).',
+    link: 'https://verify.skilljar.com/c/ekp2kga6asrz',
+    type: 'pdf',
+    issuerUrl: 'https://anthropic.skilljar.com/introduction-to-model-context-protocol'
   }
 ];
 
 const badges = [
+  {
+    title: 'Building Diverse and Effective Teams for Success in Business Careers',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=db25b03f218c9446c108226daa957dc750493f53',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-building-diverse-effective-teams.png'
+  },
+  {
+    title: 'AI and the Future of Work: Preparing for the AI-Driven Job Market in Computer Science',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=09b53d69bcae1ddc8e467941ca56c0b31b639e78',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-ai-future-of-work-cs.png'
+  },
+  {
+    title: 'Promoting Equity and Social Justice in Online Work Environments',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=3c2362b7c3c1e36035e30cffd15076890a8239b3',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-equity-social-justice-online.png'
+  },
+  {
+    title: 'Leveraging AI for Career Growth and Skill Enhancement in Business and Healthcare Fields',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=c9e20545e8837c357477a482155ccbc2178b5dff',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-leveraging-ai-career-growth.png'
+  },
+  {
+    title: 'Cybersecurity Basics Protecting Your Data in the Digital Age',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=5cdbad0331420fd6f766a8817d5f23e5fff18aff',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-cybersecurity-basics.png'
+  },
+  {
+    title: 'Conflict Resolution in Teamwork: Strategies for Effective Communication',
+    issuer: 'University of the People',
+    link: 'https://my.uopeople.edu/badges/badge.php?hash=9796dd3bfa6815f3d5d0a9ae5b97e860eb521394',
+    date: 'May 3, 2026',
+    image: '/assets/badges/uopeople-conflict-resolution.png'
+  },
   {
     title: 'Inclusive Communication for Careers in Healthcare',
     issuer: 'University of the People',

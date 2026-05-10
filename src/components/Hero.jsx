@@ -1,5 +1,5 @@
 import React, { useRef } from 'react';
-import { motion, useScroll, useTransform, useSpring, useMotionValue } from 'framer-motion';
+import { motion, useTransform, useSpring, useMotionValue } from 'framer-motion';
 
 const Hero = () => {
   const ref = useRef(null);
@@ -69,9 +69,25 @@ const Hero = () => {
           transition={{ duration: 0.5, delay: 0.2 }}
           className="text-xl md:text-2xl text-gray-200 mb-8 drop-shadow-md"
         >
-          Experienced Business Development Professional <br className="hidden md:block" />
-          Market Analysis & Sales Strategy Expert
+          Business Development & Inside Sales Leader <br className="hidden md:block" />
+          Revenue Growth • Pipeline Management • International Markets (UK/India)
         </motion.p>
+        <motion.div
+          initial={{ opacity: 0, y: 16 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.5, delay: 0.3 }}
+          className="flex flex-wrap justify-center gap-3 mb-10"
+        >
+          <span className="px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/10 text-sm text-white">
+            P&L Ownership • Forecasting • CRM Hygiene
+          </span>
+          <span className="px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/10 text-sm text-white">
+            Team Leadership • Coaching • Performance Management
+          </span>
+          <span className="px-4 py-2 rounded-full bg-white/10 backdrop-blur-sm border border-white/10 text-sm text-white">
+            Market Research • GTM Strategy • Stakeholder Management
+          </span>
+        </motion.div>
         <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
